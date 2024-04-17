@@ -1,4 +1,7 @@
 import Image from "next/image";
+
+import "./header.scss"
+
 export function Header(){
     return(
         <div className="header">
@@ -7,10 +10,10 @@ export function Header(){
           <h2>Frontend Developer</h2>
         </div>
         <Image
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
+          src="/jp2.png"
+          alt="João Pedro"
+          width={298}
+          height={368}
           priority
         />
       </div>
