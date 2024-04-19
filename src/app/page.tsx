@@ -13,8 +13,9 @@ export default function Home() {
       <Infos/>
         <div className="buttons">
           <SocialBtns/>
-          <button className='btn-primary'>Entre em contato
-          </button>
+          <a className='btn-primary' href='mailto:jpmdrsdev@gmail.com'>
+            Entre em contato
+          </a>
         </div>
     </main>
   );
