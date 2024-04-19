@@ -8,6 +8,15 @@
     
     grid-area: experience;
 
+    .experience-time {
+        display: flex;
+        gap: 24px;
+    }
+
+    img {
+        filter: grayscale(100%);
+    }
+
     p {
         font-weight: 300;
         font-size: 18px;

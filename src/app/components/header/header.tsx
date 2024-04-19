@@ -10,10 +10,10 @@ export function Header(){
           <h2>Frontend Developer</h2>
         </div>
         <Image
-          src="/jp2.png"
+          src="/joao.png"
           alt="João Pedro"
-          width={298}
-          height={368}
+          width={300}
+          height={400}
           priority
         />
       </div>
