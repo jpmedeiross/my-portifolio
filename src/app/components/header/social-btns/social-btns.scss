@@ -1,0 +1,17 @@
+.social {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+
+    a {
+        height: 59px;
+        width: 59px;
+        border: solid 2px white;
+        border-radius: 100%;
+        cursor: pointer;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
