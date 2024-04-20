@@ -7,6 +7,9 @@ const inter = Poppins({ subsets: ["latin"], weight: ['300', '400', '500', '600']
 export const metadata: Metadata = {
   title: "João Pedro Medeiros",
   description: "João Pedro is a Front-End Developer focusing on React, NextJS, HTML, CSS e SASS.",
+  icons:{
+    icon:['/favicon.ico?v=4']
+  }
 };
 
 export default function RootLayout({
