@@ -10,4 +10,5 @@ TypeScript: Utilizado para adicionar tipagem estática ao código, aumentando a 
 
 
 Como Rodar o Projeto
-*Acesse: https://jpmdrsdev.com.br
+
+Acesse: https://jpmdrsdev.com.br
